@@ -27,6 +27,8 @@ Bashtrin **CODE EDITOR**akan :
 
 Lam alqaia baseki saratai **HTML** akain
 
+**Alqaka la YOUTUBE jare bardast nia**
+
 am xalana rwn akainawa :
 
 * HTML chia ? Bochi bakar det ?
@@ -34,17 +36,22 @@ am xalana rwn akainawa :
 * **CLASS** chia ?
 * **ID** chia ?
 
+bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/html-css/blob/main/lesson2.md)
+
 ----------------------------------------
 
 # Alqay seyam
 
 Lam alqaia baseki saratai **CSS** akain
 
+**Alqaka la YOUTUBE jare bardast nia**
+
 am xalana rwn akainawa :
 
 * CSS chia ? Bochi bakar det ?
 * Grngtrin aw Kodana chin ka bakari denin ?
 
+bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/html-css/blob/main/lesson3.md)
 ----------------------------------------------
 
 # Alqai chwaram
