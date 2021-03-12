@@ -6,6 +6,16 @@ Lam **Ferkariada** basi hamu xala grngakani **HTML + CSS** akain , ka bnaxai drw
 
 Bo sairdkni hamu alqakan [Klik lera bka]()
 
+
+Chand Link'eki baswd :
+
+* [CSS tricks](https://css-tricks.com/) 
+  **Website**ek ka taibata ba **CSS** wa chandaha shty baswdi tedaia
+* [W3schools](https://www.w3schools.com/)
+  **Website**ek ka taibata ba Ferbwni zortrin aw shtanai paiwandi ba **Website drwstkrdn** haya
+* [Pixabay](https://pixabay.com/)
+  **Website**ek ka chandaha Rasmi qwality barzi tedaia bo dabazandn w bakar henan
+
 -----------------------------------------------
 
 # Alqay yakam
