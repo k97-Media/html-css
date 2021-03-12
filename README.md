@@ -10,7 +10,7 @@ Bo sairdkni hamu alqakan [Klik lera bka]()
 
 # Alqay yakam
 
-lam alqaia baseki gshti Korsaka wa rekxstni **Computer**akanman akain.
+lam alqaia baseki gshti Korsaka wa rekxstni **Computer**akanman akain. Wa harwaha **Bnaxakani Website**
 
 **Alqaka la YOUTUBE jare bardast nia**
 
@@ -58,3 +58,5 @@ bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/html-css/blob/mai
 # Alqai chwaram
 
 Lam alqaia **WEBSITE**eki tawaw drwst akain baw zaniarianai ferbwin.
+
+bo **Kod**akan [kliki era bka]()
