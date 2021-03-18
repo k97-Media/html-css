@@ -80,7 +80,7 @@ am xalana rwn akainawa :
 * Bo danani **WENA**
   * Lera **URL** aw shwenaia ka rasmakai tedaia
     ```html
-    <img href="URL">
+    <img src="URL">
     ```
 * bo kokrdnawai chand **TAG**ek wa bakarhenanian wak group
   ```html
