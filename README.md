@@ -20,7 +20,7 @@ Chand Link'eki baswd :
 
 # Alqay yakam
 
-lam alqaia baseki gshti Korsaka wa rekxstni **Computer**akanman akain. Wa harwaha **Bnaxakani Website**
+lam alqaia baseki gshti Korsaka. Wa harwaha **Bnaxakani Website**
 
 **Alqaka la YOUTUBE jare bardast nia**
 
