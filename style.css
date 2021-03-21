@@ -1,0 +1,33 @@
+body{
+	background-color: grey;
+}
+
+h1{
+	color:red;
+}
+
+h4{
+	color: yellow;
+}
+
+.qabara{
+	font-size: 20px;
+}
+
+
+#h5{
+	font-family: 'Ubuntu mono';
+	font-size: 30px;
+}
+
+
+#list{
+	display: flex;
+	align-items: center;
+	justify-content:space-between;
+}
+
+#rasm{
+	width: 200px;
+	height: 500px;
+}
