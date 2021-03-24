@@ -1,0 +1,61 @@
+body{
+	background-color: rgba(0, 0, 0, 0.926);
+	width: 100%;
+	height: 100%;
+}
+nav{
+	background-color: goldenrod;
+	height: 60px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 45px;
+}
+
+.link{
+	text-decoration: none;
+	font-size: 35px;
+	color: snow;
+	font-family: 'Ubuntu';
+	margin: 20px;
+}
+
+.link:hover{
+	font-weight: bolder;
+}
+
+
+.nusin{
+	border: 3px solid goldenrod;
+	width: 30%;
+	height: 70%;
+	color: snow;
+	text-align: center;
+	font-size: 40px;
+	margin: 30px;
+}
+
+
+img{
+	width: 60%;
+	margin: auto;
+	border-radius: 60px;
+}
+
+#saraki{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: 100%;
+	flex-wrap: wrap;
+}
+
+footer{
+	background-color: goldenrod;
+	height: 30px;
+	text-align: center;
+	margin-top: 80px;
+	color: snow;
+	font-size: 30px;
+}
