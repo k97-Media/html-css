@@ -4,7 +4,7 @@ Baseki **HTML + CSS**
 
 Lam **Ferkariada** basi hamu xala grngakani **HTML + CSS** akain , ka bnaxai drwstkrdni hamu Website'ekn.
 
-Bo sairdkni hamu alqakan [Klik lera bka]()
+Bo sairdkni hamu alqakan [Klik lera bka](https://youtube.com/playlist?list=PLDPXog3mqHRYJM4hAk9JV3yqxmJfeLC0Y)
 
 
 Chand Link'eki baswd :
@@ -22,7 +22,7 @@ Chand Link'eki baswd :
 
 lam alqaia baseki gshti Korsaka. Wa harwaha **Bnaxakani Website**
 
-**Alqaka la YOUTUBE jare bardast nia**
+Bo sairdkni alqaka [Klik lera bka](https://youtu.be/j2INDMN1-uw)
 
 
 Bashtrin **CODE EDITOR**akan :
@@ -37,7 +37,8 @@ Bashtrin **CODE EDITOR**akan :
 
 Lam alqaia baseki saratai **HTML** akain
 
-**Alqaka la YOUTUBE jare bardast nia**
+Bo sairdkni alqaka [Klik lera bka](https://youtu.be/Ud1fnXbtgNI)
+
 
 am xalana rwn akainawa :
 
