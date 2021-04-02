@@ -55,7 +55,7 @@ bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/html-css/blob/mai
 
 Lam alqaia baseki saratai **CSS** akain
 
-**Alqaka la YOUTUBE jare bardast nia**
+Bo sairdkni alqaka [Klik lera bka](https://youtu.be/UwxNk5jzk1c)
 
 am xalana rwn akainawa :
 
@@ -69,5 +69,6 @@ bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/html-css/blob/mai
 # Alqai chwaram
 
 Lam alqaia **WEBSITE**eki tawaw drwst akain baw zaniarianai ferbwin.
+Bo sairdkni alqaka [Klik lera bka](https://youtu.be/UhCcO0cJBUY)
 
-bo **Kod**akan [kliki era bka]()
+bo **Kod**akan [kliki era bka](https://github.com/k97-Media/html-css/tree/website)
